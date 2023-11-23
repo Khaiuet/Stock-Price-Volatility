@@ -29,7 +29,7 @@ scikit-learn>=0.24.2
 
 ## Authors
 
-  - **Billie Thompson** - *Provided README Template* -
+  - **Khai** -
     [Khaiuet](https://github.com/Khaiuet)
 
 
