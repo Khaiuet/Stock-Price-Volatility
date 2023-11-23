@@ -5,8 +5,6 @@
 
 The primary objective of this project is to construct a predictive model for stock price volatility across multiple stock tickers. Leveraging price and trading volume data for various stock symbols, the project aims to develop models capable of forecasting stock price movements.
 
-The central research question explores the potential correlation between Google Trends search interest volatility and stock return volatility. This project serves as a preliminary investigation to determine whether Google Trends could be valuable in volatility-based trading strategies.
-
 The "Stock Price Volatility Analysis" project aims to provide a comprehensive assessment of the historical volatility of four selected stocks. Volatility is a key metric in financial markets, influencing investment decisions and risk management strategies. By analyzing stock price volatility, investors can gain insights into potential price movements, assess risk, and make more informed trading decisions.
 
 Our findings reveal a significant coefficient of trend volatility, leading us to reject the null hypothesis in favor of the alternative. However, the R² value indicates that our simple model explains only a small portion of the variation in return volatility. Furthermore, the effect size appears relatively modest compared to the observed range of return volatility in the data. These limitations are anticipated, given the simplicity of our model in the face of the inherent complexity of financial markets. Nonetheless, this positive result sparks excitement and prompts further exploration into the potential use of Google Trends for financial analysis.
