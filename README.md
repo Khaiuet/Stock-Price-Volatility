@@ -9,7 +9,7 @@ The "Stock Price Volatility Analysis" project aims to provide a comprehensive as
 
 Our findings reveal a significant coefficient of trend volatility, leading us to reject the null hypothesis in favor of the alternative. However, the R² value indicates that our simple model explains only a small portion of the variation in return volatility. Furthermore, the effect size appears relatively modest compared to the observed range of return volatility in the data. These limitations are anticipated, given the simplicity of our model in the face of the inherent complexity of financial markets. Nonetheless, this positive result sparks excitement and prompts further exploration into the potential use of Google Trends for financial analysis.
 
-# Note: In statistical terms, volatility is simply the standard deviation of returns. Learn more
+## Note: In statistical terms, volatility is simply the standard deviation of returns. Learn more [Biến động giá cổ phiếu/Stock-Price-Volatility](https://www.vietcap.com.vn/kien-thuc/tai-sao-gia-co-phieu-lai-co-su-bien-dong#:~:text=Bi%E1%BA%BFn%20%C4%91%E1%BB%99ng%20gi%C3%A1%20c%E1%BB%95%20phi%E1%BA%BFu%20l%C3%A0%20g%C3%AC%3F,c%E1%BB%A7a%20c%C3%A1c%20nh%C3%A0%20%C4%91%E1%BA%A7u%20t%C6%B0.)
 
 # Report
 The final report can be accessed here.
