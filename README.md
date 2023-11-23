@@ -1,4 +1,4 @@
-#Stock Price Volatility Analysis
+Stock Price Volatility Analysis
 
 #Project Overview
 The primary objective of this project is to construct a predictive model for stock price volatility across multiple stock tickers. Leveraging price and trading volume data for various stock symbols, the project aims to develop models capable of forecasting stock price movements.
@@ -11,7 +11,7 @@ Our findings reveal a significant coefficient of trend volatility, leading us to
 
 Note: In statistical terms, volatility is simply the standard deviation of returns. Learn more
 
-#Report
+Report
 The final report can be accessed here.
 
 Executing the Analysis
