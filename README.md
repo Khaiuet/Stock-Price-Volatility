@@ -1,7 +1,6 @@
-Stock Price Volatility Analysis
-License: MIT
+#Stock Price Volatility Analysis
 
-Project Overview
+#Project Overview
 The primary objective of this project is to construct a predictive model for stock price volatility across multiple stock tickers. Leveraging price and trading volume data for various stock symbols, the project aims to develop models capable of forecasting stock price movements.
 
 The central research question explores the potential correlation between Google Trends search interest volatility and stock return volatility. This project serves as a preliminary investigation to determine whether Google Trends could be valuable in volatility-based trading strategies.
@@ -12,7 +11,7 @@ Our findings reveal a significant coefficient of trend volatility, leading us to
 
 Note: In statistical terms, volatility is simply the standard deviation of returns. Learn more
 
-Report
+#Report
 The final report can be accessed here.
 
 Executing the Analysis
