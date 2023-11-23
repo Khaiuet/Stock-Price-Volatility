@@ -1,9 +1,9 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-# Stock-Price-Trend-Volatility-Analysis
+# Stock-Price-Trend-olatility
 
 ## Project Overview
 
-Investment firms are increasingly looking to data science and unusual data sources to provide informational advantages to bolster their portfolio strategies. In this project, we are investigating whether Google Trends data on stock ticker names can provide insight into return volatility\*\*. Investors are often interested in understanding the volatility of stock returns. Some financial derivative trading strategies try to take advantage of changes in a stocks' volatility, as certain options are sensitive to changes in implied volatility. See a primer on option vega if you are interested! <https://www.investopedia.com/terms/v/vega.asp>
+The goal of this project is to develop a predictive model for stock price volatility across multiple stock tickers. Utilizing price and trading volume data for various stock symbols, the project aims to create models that can forecast stock price movements.
 
 Our research question is: are Google Trends search interest volatility related to stock return volatility? Consider this project a screening exercise for whether Google Trends could be useful in volatility-based trading strategies.
 
