@@ -31,10 +31,3 @@ scikit-learn>=0.24.2
   - **Khai** -
     [Khaiuet](https://github.com/Khaiuet)
 
-
-## License
-
-This project is licensed under the [MIT License](LICENSE.md)
-Creative Commons License - see the [LICENSE.md](LICENSE.md) file for
-details
-
