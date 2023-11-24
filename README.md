@@ -12,14 +12,20 @@ Our findings reveal a significant coefficient of trend volatility, leading us to
 
 ## Note: In statistical terms, volatility is simply the standard deviation of returns. Learn more [Biến động giá cổ phiếu/Stock-Price-Volatility](https://www.vietcap.com.vn/kien-thuc/tai-sao-gia-co-phieu-lai-co-su-bien-dong#:~:text=Bi%E1%BA%BFn%20%C4%91%E1%BB%99ng%20gi%C3%A1%20c%E1%BB%95%20phi%E1%BA%BFu%20l%C3%A0%20g%C3%AC%3F,c%E1%BB%A7a%20c%C3%A1c%20nh%C3%A0%20%C4%91%E1%BA%A7u%20t%C6%B0.)
 
-# Report
-The final report can be accessed here.
+File overview:
+
+* `stock_price_change.ipynb` - a Jupyter notebook that contains all of the code.
 
 Executing the Analysis
 Reproducibility of results is crucial in data science. In this section, we provide steps for executing our analysis.
 
-# Dependencies
+# Local Setup
+
+## Installation
 Ensure that your Python environment has installed the following dependencies:
+* JupyerLab
+* Python 3.8+
+* Python packages
 
 seaborn>=0.11.2
 plotly>=5.3.1
